@@ -10,7 +10,7 @@
 '  `:;;;;;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;:'`::' :;    ;:' `:;;;;;:' `:    ;:' `:;;;;;:' `:;;;;;:'   ;:'   
 '                                                                                                               
 ```
-```
+
 | Year  | Q1                                                        | Q2                                                 | Q3                                                                                     | Q4                                                       |
 |-------|----------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------|
 | 2012  |                                                          |                                                    | Started B.S. Materials Science Engineering at UT Knoxville                              |                                                         |
@@ -25,7 +25,7 @@
 | 2021  |                                                          | Move to Denver, author S2ML Image Generator notebooks                                | Move to FL due to unknown autoimmune disorder                                         | Somewhere Systems over $100K annual revenue               |
 | 2022  | Begin work at Axiom Bank as VP, Digital Banking           | Near-Death Experience (cardiac involvement)                                          | Leave Axiom Bank without notice to work with Bowsky on VAgents & CallComply            | Wind-down Somewhere Systems                               |
 | 2023  | Director, AI Systems Engineering                          | Cited in IEEE, mentioned in papers across both ML (as somewheresy) and Audio (as birth name) |                                                                                        |                                                         |
-```
+
 <div align="center">
 
 [![somewhere stats-Dark](https://github-readme-stats.vercel.app/api?username=somewheresy&show_icons=true&theme=dark&bg_color=202020&text_color=f8f8f8&icon_color=ff4400&border_color=f8f8f8&border_radius=2#gh-dark-mode-only)](https://github.com/somewheresy/github-readme-stats#gh-dark-mode-only)
