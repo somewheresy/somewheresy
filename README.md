@@ -1,14 +1,14 @@
 ```
-'  .s5SSSs.  .s5SSSs.  .s5ssSs.  .s5SSSs.  .s s.  s.  .s    s.  .s5SSSs.  .s5SSSs.  .s5SSSs.  .s5SSSs.  .s5 s.  
-'        SS.       SS.    SS SS.       SS.    SS. SS.       SS.       SS.       SS.       SS.       SS.     SS. 
-'  sS    `:; sS    S%S sS SS S%S sS    `:; sS S%S S%S sS    S%S sS    `:; sS    S%S sS    `:; sS    `:; ssS SSS 
-'  SS        SS    S%S SS :; S%S SS        SS S%S S%S SS    S%S SS        SS    S%S SS        SS        SSS SSS 
-'  `:;;;;.   SS    S%S SS    S%S SSSs.     SS S%S S%S SSSs. S%S SSSs.     SS .sS;:' SSSs.     `:;;;;.    SSSSS  
-'        ;;. SS    S%S SS    S%S SS        SS S%S S%S SS    S%S SS        SS    ;,  SS              ;;.   SSS   
-'        `:; SS    `:; SS    `:; SS        SS `:; `:; SS    `:; SS        SS    `:; SS              `:;   `:;   
-'  .,;   ;,. SS    ;,. SS    ;,. SS    ;,. SS ;,. ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. .,;   ;,.   ;,.   
-'  `:;;;;;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;:'`::' :;    ;:' `:;;;;;:' `:    ;:' `:;;;;;:' `:;;;;;:'   ;:'   
-'                                                                                                               
+  .s5SSSs.  .s5SSSs.  .s5ssSs.  .s5SSSs.  .s s.  s.  .s    s.  .s5SSSs.  .s5SSSs.  .s5SSSs.  .s5SSSs.  .s5 s.  
+        SS.       SS.    SS SS.       SS.    SS. SS.       SS.       SS.       SS.       SS.       SS.     SS. 
+  sS    `:; sS    S%S sS SS S%S sS    `:; sS S%S S%S sS    S%S sS    `:; sS    S%S sS    `:; sS    `:; ssS SSS 
+  SS        SS    S%S SS :; S%S SS        SS S%S S%S SS    S%S SS        SS    S%S SS        SS        SSS SSS 
+  `:;;;;.   SS    S%S SS    S%S SSSs.     SS S%S S%S SSSs. S%S SSSs.     SS .sS;:' SSSs.     `:;;;;.    SSSSS  
+        ;;. SS    S%S SS    S%S SS        SS S%S S%S SS    S%S SS        SS    ;,  SS              ;;.   SSS   
+        `:; SS    `:; SS    `:; SS        SS `:; `:; SS    `:; SS        SS    `:; SS              `:;   `:;   
+  .,;   ;,. SS    ;,. SS    ;,. SS    ;,. SS ;,. ;,. SS    ;,. SS    ;,. SS    ;,. SS    ;,. .,;   ;,.   ;,.   
+  `:;;;;;:' `:;;;;;:' :;    ;:' `:;;;;;:' `:;;:'`::' :;    ;:' `:;;;;;:' `:    ;:' `:;;;;;:' `:;;;;;:'   ;:'   
+                                                                                                               
 ```
 
 | Year  | Q1                                                        | Q2                                                 | Q3                                                                                     | Q4                                                       |
