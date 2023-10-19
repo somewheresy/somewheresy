@@ -11,7 +11,7 @@
                                                                                                                
 ```
 <p align="center">
-The majority of my work can be found at <a href="https://somewhere.systems">Somewhere Systems</a>
+The majority of my public work can be found at <a href="https://somewhere.systems">Somewhere Systems</a>
 </p>
 <div align="center">
 
