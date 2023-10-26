@@ -12,6 +12,7 @@
 ```
 <p align="center">
 The majority of my public work can be found at <a href="https://somewhere.systems">Somewhere Systems</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=somewheresy)](https://git.io/streak-stats)
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=somewheresy)](https://git.io/streak-stats)
+
