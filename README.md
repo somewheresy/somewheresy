@@ -14,4 +14,4 @@
 The majority of my public work can be found at <a href="https://somewhere.systems">Somewhere Systems</a>
 </p>
 
-[![Tools I use](https://skillicons.dev/icons?i=python,ts,html,css,wasm)](https://skillicons.dev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=somewheresy)](https://git.io/streak-stats)
