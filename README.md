@@ -1,3 +1,3 @@
 <p align="center">
-hypermedia tech
+very good at this too btw
 </p>
