@@ -1,3 +1,3 @@
 <p align="center">
-very good at this too btw
+the game
 </p>
